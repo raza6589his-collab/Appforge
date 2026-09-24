@@ -1,0 +1,32 @@
+{
+  "platform": "desktop",
+  "source_dir": "F:/Mimo code/Antigraviti/AppForge",
+  "entry_point": "main.py",
+  "app_name": "Appforge1",
+  "app_version": "1.0.0",
+  "output_dir": "C:/Users/AsusIran/Desktop/New folder (3)",
+  "icon_path": "C:\\Users\\AsusIran\\Downloads\\ChatGPT Image Sep 24, 2026, 06_02_04 AM.png",
+  "auto_install_deps": true,
+  "company_name": "",
+  "file_description": "",
+  "copyright_str": "",
+  "add_data": [],
+  "onefile": true,
+  "windowed": true,
+  "clean_build": true,
+  "desktop_extra_args": "",
+  "auto_hidden_imports": true,
+  "enable_smoke_test": true,
+  "generate_installer": true,
+  "package_domain": "org.example",
+  "package_name": "myapp",
+  "orientation": "portrait",
+  "permissions": [
+    "INTERNET"
+  ],
+  "android_requirements": [
+    "python3",
+    "kivy"
+  ],
+  "android_extra_args": ""
+}
